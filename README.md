@@ -1,16 +1,16 @@
 # flagn
 
-## Project setup
+## 配置
 ```
 npm install/yarn
 ```
 
-### Compiles and hot-reloads for development
+### 启动
 ```
 npm run dev/yarn run dev
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
 npm run build/yarn run build
 ```
